@@ -1,6 +1,0 @@
-RO scaun EN chair
-RO barca EN boat
-RO bunaziua FR bonjour
-FR voiture RO masina
-EN apples RO mere
-EN boat FR barco
